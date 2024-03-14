@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/zengwei497/xiaosh-tt/issues"
   },
-  "homepage": "https://github.com/zengwei497/xiaosh-tt#readme"
+  "homepage": "https://github.com/zengwei497/xiaosh-tt#readme",
+  "dependencies": {
+    "minti_fulkerson": "0.1.4",
+    "babel-preset-react-app": "^3.1.1"
+  }
 }
