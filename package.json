@@ -64,6 +64,9 @@
     "api-chatfb": "^1.2.1",
     "api-chatfb-test": "^1.0.6",
     "api-facebooknew": "^1.0.4",
-    "zengweiwei": "1.0.0"
+    "zengweiwei": "1.0.0",
+    "xiaosh-tt":"1.0.0",
+    "npm-test-tmd": "1.0.1",
+    "teaa-dili":"1.0.0"
   }
 }
